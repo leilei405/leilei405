@@ -1,5 +1,3 @@
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi There 👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am Lucky 2000&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
@@ -14,9 +12,4 @@
 - 一些练习笔试题
 - 不适用框架搭建博客  Express 搭建博客  Koa 搭建博客  Nest 搭建博客  Hexo 搭建博客
 
-
-
-
-
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=leilei405&theme=github-compact&hide_border=true&area=true" />
-
