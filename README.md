@@ -12,7 +12,7 @@
 - [在线考勤管理系统](https://github.com/leilei405/sign-Online-Management)
 - [企业后台管理系统](https://github.com/leilei405/react-ts)
 - [react知识查漏补缺](https://github.com/leilei405/learn-react)
-- [一些练习手写代码题](https://github.com/leilei405/written-test-questions)
+- [一些代码练习题](https://github.com/leilei405/written-test-questions)
 - [不使用框架搭建博客](https://github.com/leilei405/BlogLeiLei)    [Express 搭建博客](https://github.com/leilei405/blog-express)  [Koa 搭建博客](https://github.com/leilei405/koa-blog)   Nest 搭建博客   [Hexo 搭建博客](https://github.com/leilei405/leilei405.github.io)
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=leilei405&theme=github-compact&hide_border=true&area=true" />
