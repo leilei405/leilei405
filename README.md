@@ -2,16 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Lucky%202000!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-
-
 ## 个人信息
-
-**学习经历**
-
- **时间** `2021年-2025年  `                                               **学校**：`南昌大学`                                                                    **专业** `软件工程`
-
+学生  编码爱好者  前端（BF）
+## 
 ## 项目
-
 - [仿ant-design组件库实现组件封装](https://github.com/leilei405/thunderkit-design)
 - [低代码问卷调查](https://github.com/leilei405/questionnaireInvestigation)
 - [在线考勤管理系统](https://github.com/leilei405/sign-Online-Management)
