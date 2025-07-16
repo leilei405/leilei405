@@ -11,9 +11,9 @@
 - 熟悉 **Typescript**，具有**TS** + **React**的企业项⽬实战经验
 - 熟悉项⽬构建⼯具，包括：**Webpack**、**Vite**等性能优化有企业级项⽬实践经验
 - 熟悉前端⼯程化⽅案，搭建过基本前端⼯程化流程。如：**Eslint**，**Prettier**，权限配置，路由配置，公共样式处理等
-- 熟悉 **Node** 的基本使⽤，能够使⽤node框架**Koa**、**Express**、**Egg** 框架搭建基本的web服务
-- 熟悉反向代理、JSONP 和 CORS 等跨域请求的解决⽅案
-- 熟悉git操作，清晰的commit提交、代码冲突和 Code Review保证代码质量
+- 熟悉 **Node** 的基本使⽤，能够使⽤ **Node** 框架 **Koa**、**Express**、**Egg** 框架搭建基本的web服务
+- 熟悉反向代理、**JSONP** 和 **CORS** 等跨域请求的解决⽅案
+- 熟悉 **git** 操作，清晰的 **commit** 提交、代码冲突和 **Code Review** 保证代码质量
 - 对其他前端库和框架均有使⽤经验，如：**Axios**、**Redux**、**zustand**、**Ant Design**、**Formily**、**Tailwindcss**、**Bizcharts**等
 
 
@@ -23,6 +23,8 @@
   - **Nestjs**
   - **Koa**
   - **Java**
+  - 及数据库的操作 **MongoDB**、**MySql**
 - 开发个人主站 && 部署上线
 - 开发一套组件库 **Lucky-Design**
 - 系统化学习 **AI Agent** 智能体
+- 继续完成 [技术文档的沉淀](https://www.yuque.com/react-lxgph/gvf5oy/vp2o3lwoqhv6fz0v)
