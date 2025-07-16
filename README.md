@@ -3,13 +3,26 @@
 </p>
 
 ## 个人信息
-学生  编码爱好者  前端（BF）
-## 
-## 项目
-- [仿ant-design组件库实现组件封装](https://github.com/leilei405/thunderkit-design)
-- [低代码问卷调查](https://github.com/leilei405/questionnaireInvestigation)
-- [在线考勤管理系统](https://github.com/leilei405/sign-Online-Management)
-- [企业后台管理系统](https://github.com/leilei405/react-ts)
-- [react知识查漏补缺](https://github.com/leilei405/learn-react)
-- [一些练习手写代码题](https://github.com/leilei405/written-test-questions)
-- [不适用框架搭建博客](https://github.com/leilei405/BlogLeiLei)  [Express 搭建博客](https://github.com/leilei405/blog-express)  [Koa 搭建博客](https://github.com/leilei405/koa-blog)  Nest 搭建博客  [Hexo 搭建博客](https://github.com/leilei405/leilei405.github.io)
+**Lucky** 程序编码爱好者  练习四年半前端开发工程师
+
+## 专业技能
+- 熟练 **HTML**、**CSS**、有扎实的原⽣ **JavaScript** 编程能⼒、熟悉ES2015+新特性
+- 熟悉 **React** 技术栈，并对React源码、原理有⼀定了解
+- 熟悉 **Typescript**，具有**TS** + **React**的企业项⽬实战经验
+- 熟悉项⽬构建⼯具，包括：**Webpack**、**Vite**等性能优化有企业级项⽬实践经验
+- 熟悉前端⼯程化⽅案，搭建过基本前端⼯程化流程。如：**Eslint**，**Prettier**，权限配置，路由配置，公共样式处理等
+- 熟悉 **Node** 的基本使⽤，能够使⽤node框架**Koa**、**Express**、**Egg** 框架搭建基本的web服务
+- 熟悉反向代理、JSONP 和 CORS 等跨域请求的解决⽅案
+- 熟悉git操作，清晰的commit提交、代码冲突和 Code Review保证代码质量
+- 对其他前端库和框架均有使⽤经验，如：**Axios**、**Redux**、**zustand**、**Ant Design**、**Formily**、**Tailwindcss**、**Bizcharts**等
+
+
+## 职业规划
+### 2025年计划
+- 学习服务端开发 **Nodejs框架**
+  - **Nestjs**
+  - **Koa**
+  - **Java**
+- 开发个人主站 && 部署上线
+- 开发一套组件库 **Lucky-Design**
+- 系统化学习 **AI Agent** 智能体
