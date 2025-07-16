@@ -24,7 +24,7 @@
   - **Koa**
   - **Java**
   - 及数据库的操作 **MongoDB**、**MySql**
-- 开发个人主站 && 个人博客 && 商业化项目 && 工具链 ** 部署上线
+- 开发 **个人主站**  **个人博客** && **商业化项目** && **工具链** && **部署上线**
 - 开发一套组件库 **Lucky-Design**
 - 系统化学习 **AI Agent** 智能体
 - 继续完成 [技术文档的沉淀](https://www.yuque.com/react-lxgph/gvf5oy/vp2o3lwoqhv6fz0v)
