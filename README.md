@@ -28,3 +28,4 @@
 - 开发一套组件库 **Lucky-Design**
 - 系统化学习 **AI Agent** 智能体
 - 继续完成 [技术文档的沉淀](https://www.yuque.com/react-lxgph/gvf5oy/vp2o3lwoqhv6fz0v)
+- 2025 考到软考证书
